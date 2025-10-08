@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as r}from"./chunks/framework.BBlOp56t.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"project/ai-report.md","filePath":"project/ai-report.md","lastUpdated":null}'),a={name:"project/ai-report.md"};function o(p,c,s,n,i,d){return r(),t("div")}const m=e(a,[["render",o]]);export{l as __pageData,m as default};
